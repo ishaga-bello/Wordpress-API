@@ -1,5 +1,6 @@
 # WordPress REST API Client
 
+Finally a simple and efficient API to work with your WordPress. 
 A Python client for interacting with the WordPress REST API to manage content, media, and categories.
 
 ## Features
@@ -19,7 +20,7 @@ A Python client for interacting with the WordPress REST API to manage content, m
 
 **Install dependencies**:
 ```
-   pip install requests WordPRest
+pip install WordPRest
 ```
 
 **Initialize client**

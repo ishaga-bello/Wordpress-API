@@ -41,9 +41,9 @@ print(f"Created category ID: {new_category['id']}")
 
 **Upload an image**
 ```
-   image_url = "https://example.com/image.jpg"
-   media = wp.upload_image(image_url)
-   print(f"Uploaded media ID: {media['id']}")
+image_url = "https://example.com/image.jpg"
+media = wp.upload_image(image_url)
+print(f"Uploaded media ID: {media['id']}")
 ```
 
 **Create a post**
